@@ -1,0 +1,27 @@
+Privacy Policy
+
+This Privacy Policy explains how this Discord bot collects and uses data.
+
+Data Collection and Usage:
+The bot only collects and processes data necessary to provide its core features, such as moderation, games, and utility commands. This may include user IDs, server IDs, channel IDs, and message content when required for moderation or command execution.
+
+Message Content:
+Message content is processed in real-time for moderation purposes (such as spam or prohibited word detection), command handling, and interactive features. Message content is not stored, logged, or shared outside of Discord.
+
+Member and Presence Data:
+Member-related data is used for moderation actions, welcome systems, and server management features. Presence data is only used in real-time when required by specific features and is not stored.
+
+Data Storage:
+The bot does not store sensitive personal data off-platform. Any temporary data used is automatically discarded when no longer needed.
+
+Data Sharing:
+No user data is shared with third parties.
+
+User Control:
+Server administrators can configure or disable bot features at any time. Users may opt out of certain features by server configuration.
+
+Changes:
+This Privacy Policy may be updated if necessary to reflect changes in functionality.
+
+Contact:
+For questions regarding this Privacy Policy, please contact the bot developer via Discord.
